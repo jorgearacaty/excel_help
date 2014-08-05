@@ -1,2 +1,31 @@
 18:11 08/05/2014 - testando Git Hub
 18:49 08/05/2014 - Coca-Cola.
+
+Create a new repository on the command line
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/jorgearacaty/excel_help.git
+git push -u origin master
+
+Usando repositórios já criados remote e local.
+Setar repositório alvo na web.
+git remote add origin https://github.com/jorgearacaty/excel_help.git
+Toda modificaçõa tem que incluir os 3 passos.
+git add novoArquivo.new          # stage.
+git commit -m "data e hora"    # comissiona.
+git push -u origin master          # empurra para a web.
+
+Push an existing repository from the command line
+git remote add origin https://github.com/jorgearacaty/excel_help.git
+git push -u origin master
+
+Delete local and remote repository (repo).
+How do I delete a local repository in git- - Stack Overflow
+Deleting a repository · GitHub Help
+
+A Git cheat sheet (Git command reference)
+A Git cheat sheet and command reference - alvinalexander.com
+
+cd C:\\\Users\\CCE\\Desktop\\GetGit\\excel_help
