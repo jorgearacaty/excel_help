@@ -3,7 +3,7 @@ echo refresh GitHub a cada ciclo de atualização.
 echo jorgearacaty, 5 aug 2014 - 2049.
 echo --------------------------------------------------
 
-REM 'cd C:\\\Users\\CCE\\Desktop\\GetGit\\excel_help'
+:: 'cd C:\\\Users\\CCE\\Desktop\\GetGit\\excel_help'
 
 git add @.bat
 git add @set_remote.bat
