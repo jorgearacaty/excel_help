@@ -7,12 +7,11 @@ Create a new repository on the command line
 	git init
 	git add README.md
 	git commit -m "first commit"
+Setar repositório alvo na web.
 	git remote add origin https://github.com/jorgearacaty/excel_help.git
 	git push -u origin master
 
 Usando repositórios já criados remote e local.
-Setar repositório alvo na web.
-	git remote add origin https://github.com/jorgearacaty/excel_help.git
 Toda modificaçõa tem que incluir os 3 passos.
 	git add novoArquivo.new          # stage.
 	git commit -m "data e hora"    # comissiona.
