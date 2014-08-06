@@ -12,5 +12,5 @@ git add MEleia.txt
 git add calcula_estatistica_de_um_intervalo.xlsm
 git add mosaico.xlsm
 
-git commit -m "21:25 08/05/2014" 
+git commit -m "jorgearacaty" 
 git push -u origin master 
