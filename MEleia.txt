@@ -1,32 +1,46 @@
-18:11 08/05/2014 - testando Git Hub
-18:49 08/05/2014 - Coca-Cola.
-19:20 08/05/2014 - testando b.bat.
-21:54 08/05/2014 - teste.		21:55 08/05/2014
+00:00 08/06/2014
+----------------
+cd C:\\\Users\\CCE\\Desktop\\GetGit\\excel_help
+https://github.com/jorgearacaty/excel_help.git
 
 Create a new repository on the command line
-	touch README.md
-	git init
-	git add README.md
-	git commit -m "first commit"
-Setar repositório alvo na web.
-	git remote add origin https://github.com/jorgearacaty/excel_help.git
-	git push -u origin master
+     touch README.md
+     git init
+     git add README.md
+     git commit -m "first commit"
+     git remote add origin https://github.com/jorgearacaty/excel_help.git
+     git push -u origin master
 
 Usando repositórios já criados remote e local.
-Toda modificaçõa tem que incluir os 3 passos.
-	git add novoArquivo.new          # stage.
-	git commit -m "data e hora"    # comissiona.
-	git push -u origin master          # empurra para a web.
+Setar repositório alvo na web primeira vez na pasta local.
+     git remote add origin https://github.com/jorgearacaty/excel_help.git
+Toda modificação tem que incluir os 3 passos.
+     git add novoArquivo.new          # stage. (git add -A, adiciona tudo até o que não é pra adicionar, tipo 'desktop.ini', etc.).
+     git commit -m "data e hora"    # comissiona.
+     git push -u origin master          # empurra para a web.
 
 Push an existing repository from the command line
-	git remote add origin https://github.com/jorgearacaty/excel_help.git
-	git push -u origin master
+     git remote add origin https://github.com/jorgearacaty/excel_help.git
+     git push -u origin master
+
+Deletando arquivos no repo remote através do web browser.
+aplicar o comando 'git pull', no repo local.
 
 Delete local and remote repository (repo).
-	http://stackoverflow.com/questions/1514054/how-do-i-delete-a-local-repository-in-git
-	https://help.github.com/articles/deleting-a-repository
+How do I delete a local repository in git- - Stack Overflow
+Deleting a repository · GitHub Help
 
-	A Git cheat sheet (Git command reference)
-	http://alvinalexander.com/git/git-cheat-sheet-git-reference-commands
+A Git cheat sheet (Git command reference)
+A Git cheat sheet and command reference - alvinalexander.com
 
-cd C:\\\Users\\CCE\\Desktop\\GetGit\\excel_help
+problema - Your branch is ahead of 'origin/master' by 3 commits [duplicate]
+resolver com o comando 'git reset --hard origin/master'
+http://stackoverflow.com/questions/16288176/your-branch-is-ahead-of-origin-master-by-3-commits
+
+
+
+
+
+
+
+
