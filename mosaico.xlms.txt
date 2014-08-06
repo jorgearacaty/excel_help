@@ -1,4 +1,8 @@
-jorgearacaty 5 aug 2014.
+--------------------------------
+jorgearacaty, 5 aug 2014 - 2206.
+--------------------------------
 
 Para iniciar o mosaico.xlms (qualquer planilha Excel) sem executar o código VBA,
 pressione ESC ao iniciar o Excel e clique DEPURAR na janela.
+
+
