@@ -1,6 +1,6 @@
 echo --------------------------------------------------
 echo refresh GitHub a cada ciclo de atualização.
-echo jorgearacaty, 5 aug 2014 - 2049.
+echo jorgearacaty, 5 aug 2014 - 2151.
 echo --------------------------------------------------
 
 :: 'cd C:\\\Users\\CCE\\Desktop\\GetGit\\excel_help'
