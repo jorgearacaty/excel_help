@@ -1,5 +1,4 @@
-00:00 08/06/2014
-14:09 08/06/2014 teste de CLONE
+11:53 08/07/2014.
 ----------------
 cd C:\\\Users\\CCE\\Desktop\\GetGit\\excel_help
 https://github.com/jorgearacaty/excel_help.git
