@@ -38,6 +38,21 @@ problema - Your branch is ahead of 'origin/master' by 3 commits [duplicate]
 resolver com o comando 'git reset --hard origin/master'
 http://stackoverflow.com/questions/16288176/your-branch-is-ahead-of-origin-master-by-3-commits
 
+----------------------------------------------------------------------------------------
+echo --------------------------------------------------
+echo refresh GitHub a cada ciclo de atualização.
+echo jorgearacaty, 5 aug 2014 - 2151.
+echo --------------------------------------------------
+
+:: 'cd C:\\\Users\\CCE\\Desktop\\GetGit\\excel_help'
+
+git add @.bat
+git add README.md
+git add  allQuina.py
+
+git commit -m "jorgearacaty" 
+git push -u origin master 
+----------------------------------------------------------------------------------------
 
 
 
